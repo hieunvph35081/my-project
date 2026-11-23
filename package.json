@@ -1,0 +1,14 @@
+{
+  "name": "karaoke-manager",
+  "version": "2.1.0",
+  "description": "Karaoke Manager - 3 trang tach biet + OTP Telegram theo SDT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}

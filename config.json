@@ -1,0 +1,22 @@
+{
+  "telegramBotToken": "8798895825:AAEXKus1p8sktdVJimF-EfeQwQd4PiQTsFE",
+  "notify": {
+    "orders": true,
+    "bookings": true,
+    "control": true
+  },
+  "admins": [
+    {
+      "name": "Chủ chuỗi (Xem tất cả cơ sở)",
+      "phone": "0563112605",
+      "telegramChatId": "2021574720",
+      "branch": "all"
+    },
+    {
+      "name": "Quản lý Cơ sở 1",
+      "phone": "0900000002",
+      "telegramChatId": "DAN_CHAT_ID_QUAN_LY_CS1",
+      "branch": "b1"
+    }
+  ]
+}
